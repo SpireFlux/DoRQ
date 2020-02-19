@@ -36,7 +36,7 @@ Date | map | matchup | opponent:name | opp:race | opp:League | user:race | user:
 * https://www.pythonsheets.com/notes/python-sqlalchemy.html
 
 
-# Webserver (flask)
+# Webserver (Django)
 * Django
 
 # Namecheap
