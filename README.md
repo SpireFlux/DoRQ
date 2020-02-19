@@ -13,8 +13,9 @@
 
 # Table Fields
 
-Date | map | matchup | opponent:name | opp:race | opp:League | user:race | user:League | time | result |  Creep spread % | Workers Created | MaxTime | avg unspent resources | time supply capped
+These are the desired fields that I'd like to see
 
+Date | map | matchup | opponent:name | opp:race | opp:League | user:race | user:League | time | result |  Creep spread % | Workers Created | MaxTime | avg unspent resources | time supply capped
 
 
 
@@ -36,7 +37,17 @@ Date | map | matchup | opponent:name | opp:race | opp:League | user:race | user:
 
 
 # Webserver (flask)
-* https://flask-sqlalchemy.palletsprojects.com/en/2.x/quickstart/
+* Django
+
+# Namecheap
+-[x] Purchase domain
+-[ ] Forward domain to server
+
+# Digital Ocean Droplet
+-[] Django Setup
+
+# Lets Encrypt SSL Cert
+-[] Configure SSL Cert on server 
 
 
 # Sortable - interactive table (?)
@@ -49,6 +60,6 @@ Date | map | matchup | opponent:name | opp:race | opp:League | user:race | user:
 # Stretch Goals
 Interesting Statistics
 - Matchup W/L ratios
-- Charts / graphs
+- Charts / graphs (Trendline for creap spread %, Maxout Time, Time Supply Blocked, etc)
 
 
