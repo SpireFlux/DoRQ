@@ -40,14 +40,14 @@ Date | map | matchup | opponent:name | opp:race | opp:League | user:race | user:
 * Django
 
 # Namecheap
--[x] Purchase domain
--[ ] Forward domain to server
+* [x] Purchase domain
+* [ ] Forward domain to server
 
 # Digital Ocean Droplet
--[] Django Setup
+* [] Django Setup
 
 # Lets Encrypt SSL Cert
--[] Configure SSL Cert on server 
+* [] Configure SSL Cert on server 
 
 
 # Sortable - interactive table (?)
